@@ -1,0 +1,12 @@
+{
+  "name": "telegram-voice-stt",
+  "description": "Telegram channel for Claude Code with automatic voice transcription. Drop-in replacement for the official telegram plugin — adds STT support via any Whisper-compatible endpoint.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The IT CyberSpace",
+    "url": "https://github.com/H34R7L3s"
+  },
+  "homepage": "https://github.com/H34R7L3s/telegram-voice-stt",
+  "repository": "https://github.com/H34R7L3s/telegram-voice-stt",
+  "license": "MIT"
+}
